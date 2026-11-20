@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid30838",
+  "B": "/home/dev/feedback/uid30838",
+  "sha": "7cfe831cc8849934d2e345c6beaa0ed726028a60",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "notaryproject",
+    "repo": "notation",
+    "sha": "7cfe831cc8849934d2e345c6beaa0ed726028a60"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "notation",
+    "cloneUrl": "https://github.com/Rrr119/notation.git"
+  },
+  "at": "2026-11-20T21:01:00.250Z"
+}
